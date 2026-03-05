@@ -1,0 +1,31 @@
+Vendas Gerais SQL: SELECT vf.fornecedor_id, f.nome as fornecedor_nome, vf.usuario_id, u.nome as vendedor_nome, YEAR(vf.data_venda) as ano, MONTH(vf.data_venda) as mes, SUM(vf.valor_total) as total_vendido FROM vendas_fornecedores vf JOIN fornecedores f ON vf.fornecedor_id = f.id JOIN usuarios u ON vf.usuario_id = u.id WHERE vf.data_venda BETWEEN ? AND ? AND vf.fornecedor_id IN (?) GROUP BY vf.fornecedor_id, vf.usuario_id, YEAR(vf.data_venda), MONTH(vf.data_venda) ORDER BY f.nome, u.nome, ano, mes 
+ Params: Array
+(
+    [0] => 2026-01-01
+    [1] => 2026-12-31
+    [2] => 2
+)
+
+Vendas Gerais SQL: SELECT vf.fornecedor_id, f.nome as fornecedor_nome, vf.usuario_id, u.nome as vendedor_nome, YEAR(vf.data_venda) as ano, MONTH(vf.data_venda) as mes, SUM(vf.valor_total) as total_vendido FROM vendas_fornecedores vf JOIN fornecedores f ON vf.fornecedor_id = f.id JOIN usuarios u ON vf.usuario_id = u.id WHERE vf.data_venda BETWEEN ? AND ? AND vf.fornecedor_id IN (?) GROUP BY vf.fornecedor_id, vf.usuario_id, YEAR(vf.data_venda), MONTH(vf.data_venda) ORDER BY f.nome, u.nome, ano, mes 
+ Params: Array
+(
+    [0] => 2026-01-01
+    [1] => 2026-12-31
+    [2] => 2
+)
+
+Vendas Gerais SQL: SELECT vf.fornecedor_id, f.nome as fornecedor_nome, vf.usuario_id, u.nome as vendedor_nome, YEAR(vf.data_venda) as ano, MONTH(vf.data_venda) as mes, SUM(vf.valor_total) as total_vendido FROM vendas_fornecedores vf JOIN fornecedores f ON vf.fornecedor_id = f.id JOIN usuarios u ON vf.usuario_id = u.id WHERE vf.data_venda BETWEEN ? AND ? GROUP BY vf.fornecedor_id, vf.usuario_id, YEAR(vf.data_venda), MONTH(vf.data_venda) ORDER BY f.nome, u.nome, ano, mes 
+ Params: Array
+(
+    [0] => 2026-01-01
+    [1] => 2026-12-31
+)
+
+Vendas Gerais SQL: SELECT vf.fornecedor_id, f.nome as fornecedor_nome, vf.usuario_id, u.nome as vendedor_nome, YEAR(vf.data_venda) as ano, MONTH(vf.data_venda) as mes, SUM(vf.valor_total) as total_vendido FROM vendas_fornecedores vf JOIN fornecedores f ON vf.fornecedor_id = f.id JOIN usuarios u ON vf.usuario_id = u.id WHERE vf.data_venda BETWEEN ? AND ? AND vf.fornecedor_id IN (?) GROUP BY vf.fornecedor_id, vf.usuario_id, YEAR(vf.data_venda), MONTH(vf.data_venda) ORDER BY f.nome, u.nome, ano, mes 
+ Params: Array
+(
+    [0] => 2026-01-01
+    [1] => 2026-12-31
+    [2] => 2
+)
+
