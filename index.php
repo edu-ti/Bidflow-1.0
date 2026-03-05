@@ -40,6 +40,7 @@
                     <a href="#features" class="text-gray-700 hover:text-blue-800 font-medium">Funcionalidades</a>
                     <a href="#benefits" class="text-gray-700 hover:text-blue-800 font-medium">Benefícios</a>
                     <a href="#customization" class="text-gray-700 hover:text-blue-800 font-medium">Personalização</a>
+                    <a href="#testimonials" class="text-gray-700 hover:text-blue-800 font-medium">Depoimentos</a>
                     <a href="#modules" class="text-gray-700 hover:text-blue-800 font-medium">Módulos</a>
                     <a href="#contact" class="text-gray-700 hover:text-blue-800 font-medium">Contato</a>
                 </div>
@@ -429,8 +430,136 @@
         </div>
     </section>
 
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="bg-white py-20 px-6">
+        <div class="container mx-auto">
+            <div class="text-center mb-16">
+                <div class="inline-block bg-green-100 text-green-800 px-4 py-2 rounded-full text-sm font-semibold mb-4">
+                    ⭐ DEPOIMENTOS
+                </div>
+                <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+                    O Que Nossos Clientes Dizem
+                </h2>
+                <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+                    Veja como o BidFlow está transformando a gestão comercial de empresas em todo o Brasil
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-3 gap-8 mb-12">
+                <!-- Depoimento 1 -->
+                <div class="bg-gray-50 p-8 rounded-2xl shadow-lg">
+                    <div class="flex gap-1 mb-4">
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                    </div>
+                    <p class="text-gray-700 mb-6 italic">
+                        "O BidFlow revolucionou nossa forma de trabalhar com licitações. A IA para análise de editais economiza horas do nosso time. Aumentamos nossa taxa de vitória em 35% no primeiro ano!"
+                    </p>
+                    <div class="flex items-center gap-3">
+                        <div class="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center">
+                            <span class="text-blue-800 font-bold text-lg">MC</span>
+                        </div>
+                        <div>
+                            <p class="font-bold text-gray-900">Maria Clara Santos</p>
+                            <p class="text-sm text-gray-600">Diretora Comercial - Tech Solutions PE</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Depoimento 2 -->
+                <div class="bg-gray-50 p-8 rounded-2xl shadow-lg">
+                    <div class="flex gap-1 mb-4">
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                    </div>
+                    <p class="text-gray-700 mb-6 italic">
+                        "Sistema intuitivo e completo. O CRM integrado com gestão de licitações é exatamente o que precisavamos. A equipe comercial está muito mais produtiva e organizada."
+                    </p>
+                    <div class="flex items-center gap-3">
+                        <div class="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center">
+                            <span class="text-green-800 font-bold text-lg">RA</span>
+                        </div>
+                        <div>
+                            <p class="font-bold text-gray-900">Roberto Almeida</p>
+                            <p class="text-sm text-gray-600">CEO - Construtora Nordeste</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Depoimento 3 -->
+                <div class="bg-gray-50 p-8 rounded-2xl shadow-lg">
+                    <div class="flex gap-1 mb-4">
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                        <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                        </svg>
+                    </div>
+                    <p class="text-gray-700 mb-6 italic">
+                        "A funcionalidade de geração automática de recursos e impugnações é incrível. Reduzimos significativamente o tempo de resposta e melhoramos a qualidade técnica dos documentos."
+                    </p>
+                    <div class="flex items-center gap-3">
+                        <div class="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center">
+                            <span class="text-purple-800 font-bold text-lg">JF</span>
+                        </div>
+                        <div>
+                            <p class="font-bold text-gray-900">Juliana Ferreira</p>
+                            <p class="text-sm text-gray-600">Gerente de Licitações - MedSupply</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-gradient-to-r from-green-500 to-teal-500 p-10 rounded-2xl text-white text-center">
+                <h3 class="text-3xl font-bold mb-4">Faça Parte dos Nossos Cases de Sucesso</h3>
+                <p class="text-lg mb-6 opacity-90 max-w-2xl mx-auto">
+                    Junte-se a centenas de empresas que já transformaram sua gestão comercial com o BidFlow
+                </p>
+                <a href="https://wa.me/5581988881820?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20demonstra%C3%A7%C3%A3o%20do%20BidFlow" target="_blank" class="inline-block bg-white text-green-700 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition shadow-lg">
+                    Agendar Demonstração
+                </a>
+            </div>
+        </div>
+    </section>
+
     <!-- Modules Section -->
-    <section id="modules" class="py-20 px-6">
+    <section id="modules" class="py-20 px-6 bg-gray-50">
         <div class="container mx-auto">
             <div class="text-center mb-16">
                 <h2 class="text-4xl font-bold text-gray-900 mb-4">Dois Módulos Poderosos</h2>
@@ -558,6 +687,7 @@
                         <li><a href="#features" class="hover:text-white transition">Funcionalidades</a></li>
                         <li><a href="#benefits" class="hover:text-white transition">Benefícios</a></li>
                         <li><a href="#customization" class="hover:text-white transition">Personalização</a></li>
+                        <li><a href="#testimonials" class="hover:text-white transition">Depoimentos</a></li>
                         <li><a href="#modules" class="hover:text-white transition">Módulos</a></li>
                         <li><a href="login.php" class="hover:text-white transition">Acessar Sistema</a></li>
                     </ul>
