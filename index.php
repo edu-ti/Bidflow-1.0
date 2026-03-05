@@ -57,7 +57,7 @@
                 O Fluxo Certo para a Sua Vitória
             </h1>
             <p class="text-xl md:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
-                Sistema integrado de gestão de vendas e CRM para impulsionar seus resultados comerciais - licitações públicas, vendas B2B e mais
+                Sistema integrado de gestão de vendas e CRM com IA para impulsionar seus resultados comerciais - licitações públicas, vendas B2B e mais
             </p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
                 <a href="login.php" class="bg-white text-blue-800 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition shadow-lg">
@@ -117,6 +117,19 @@
                     </p>
                 </div>
 
+                <div class="feature-card bg-white p-8 rounded-xl shadow-md border-2 border-yellow-400">
+                    <div class="bg-yellow-100 w-16 h-16 rounded-lg flex items-center justify-center mb-6">
+                        <svg class="w-8 h-8 text-yellow-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path>
+                        </svg>
+                    </div>
+                    <div class="bg-yellow-100 text-yellow-800 text-xs font-bold px-2 py-1 rounded-full inline-block mb-3">IA INTEGRADA</div>
+                    <h3 class="text-2xl font-bold text-gray-900 mb-3">Inteligência Artificial</h3>
+                    <p class="text-gray-600">
+                        Análise automatizada de editais, geração de recursos, intensão de recurso, pedidos de esclarecimento, impugnações e muito mais com IA.
+                    </p>
+                </div>
+
                 <div class="feature-card bg-white p-8 rounded-xl shadow-md">
                     <div class="bg-orange-100 w-16 h-16 rounded-lg flex items-center justify-center mb-6">
                         <svg class="w-8 h-8 text-orange-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -140,18 +153,93 @@
                         Controle de acesso por perfil, auditoria de ações e proteção de dados sensíveis com criptografia para garantir confidencialidade.
                     </p>
                 </div>
+            </div>
+        </div>
+    </section>
 
-                <div class="feature-card bg-white p-8 rounded-xl shadow-md">
-                    <div class="bg-indigo-100 w-16 h-16 rounded-lg flex items-center justify-center mb-6">
-                        <svg class="w-8 h-8 text-indigo-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4"></path>
-                        </svg>
-                    </div>
-                    <h3 class="text-2xl font-bold text-gray-900 mb-3">Integração de Dados</h3>
-                    <p class="text-gray-600">
-                        Sistema unificado com banco de dados integrado. Informações centralizadas e sincronizadas para toda a operação comercial.
-                    </p>
+    <!-- AI Features Highlight Section -->
+    <section class="bg-gradient-to-br from-yellow-50 to-orange-50 py-20 px-6">
+        <div class="container mx-auto">
+            <div class="text-center mb-12">
+                <div class="inline-block bg-yellow-100 text-yellow-800 px-4 py-2 rounded-full text-sm font-semibold mb-4">
+                    🤖 TECNOLOGIA DE IA
                 </div>
+                <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+                    Inteligência Artificial a Seu Favor
+                </h2>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+                    Economize horas de trabalho com análise e elaboração automatizada de documentos para licitações
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center gap-3 mb-3">
+                        <svg class="w-6 h-6 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                        <h3 class="text-lg font-bold text-gray-900">Análise de Editais</h3>
+                    </div>
+                    <p class="text-gray-600 text-sm">IA analisa automaticamente editais, identificando pontos críticos, requisitos e oportunidades</p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center gap-3 mb-3">
+                        <svg class="w-6 h-6 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                        <h3 class="text-lg font-bold text-gray-900">Elaboração de Recursos</h3>
+                    </div>
+                    <p class="text-gray-600 text-sm">Geração automática de recursos administrativos com fundamentação técnica e legal</p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center gap-3 mb-3">
+                        <svg class="w-6 h-6 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                        <h3 class="text-lg font-bold text-gray-900">Intensão de Recurso</h3>
+                    </div>
+                    <p class="text-gray-600 text-sm">Cria automaticamente intensões de recurso conforme normas e prazos legais</p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center gap-3 mb-3">
+                        <svg class="w-6 h-6 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                        <h3 class="text-lg font-bold text-gray-900">Pedidos de Esclarecimento</h3>
+                    </div>
+                    <p class="text-gray-600 text-sm">Elabora pedidos de esclarecimento técnicos sobre pontos complexos ou ambíguos</p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center gap-3 mb-3">
+                        <svg class="w-6 h-6 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                        <h3 class="text-lg font-bold text-gray-900">Impugnações</h3>
+                    </div>
+                    <p class="text-gray-600 text-sm">Gera impugnações fundamentadas para contestar irregularidades em editais</p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center gap-3 mb-3">
+                        <svg class="w-6 h-6 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                        <h3 class="text-lg font-bold text-gray-900">Outros Documentos</h3>
+                    </div>
+                    <p class="text-gray-600 text-sm">Geração de contropropostas, justificativas técnicas e demais documentos processuais</p>
+                </div>
+            </div>
+
+            <div class="bg-white p-8 rounded-2xl shadow-lg text-center">
+                <h3 class="text-2xl font-bold text-gray-900 mb-4">Acelere Seu Processo de Análise</h3>
+                <p class="text-gray-600 mb-6">
+                    A IA do BidFlow reduz em até 80% o tempo gasto na análise de editais e elaboração de documentos, permitindo que sua equipe foque em estratégia e relacionamento com clientes.
+                </p>
+                <div class="text-4xl font-bold text-yellow-600">80% mais rápido</div>
             </div>
         </div>
     </section>
@@ -334,8 +422,8 @@
                 <p class="text-lg mb-6 opacity-90 max-w-2xl mx-auto">
                     Cada empresa tem desafios únicos. O BidFlow é desenvolvido para se moldar perfeitamente ao seu processo de trabalho, não o contrário. Entre em contato e conte-nos sobre suas necessidades específicas.
                 </p>
-                <a href="mailto:contato@bidflow.com.br" class="inline-block bg-white text-purple-700 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition shadow-lg">
-                    Solicitar Personalização
+                <a href="https://wa.me/5581999999999?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20BidFlow" target="_blank" class="inline-block bg-white text-purple-700 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition shadow-lg">
+                    Falar pelo WhatsApp
                 </a>
             </div>
         </div>
@@ -444,8 +532,11 @@
                 <a href="login.php" class="bg-white text-blue-800 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition shadow-lg">
                     Acessar Sistema
                 </a>
-                <a href="mailto:contato@bidflow.com.br" class="bg-transparent border-2 border-white text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-white hover:text-blue-800 transition">
-                    Solicitar Demonstração
+                <a href="https://wa.me/5581999999999?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20BidFlow" target="_blank" class="bg-green-500 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-green-600 transition shadow-lg flex items-center justify-center gap-2">
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/>
+                    </svg>
+                    Falar pelo WhatsApp
                 </a>
             </div>
         </div>
@@ -458,7 +549,7 @@
                 <div>
                     <img src="crm/imagens/logo-1080-fb.png" alt="Logo BidFlow" class="h-12 mb-4">
                     <p class="text-sm">
-                        Sistema integrado de gestão de vendas e CRM desenvolvido para empresas que buscam excelência em vendas estratégicas, licitações e relacionamento comercial.
+                        Sistema integrado de gestão de vendas e CRM com IA desenvolvido para empresas que buscam excelência em vendas estratégicas, licitações e relacionamento comercial.
                     </p>
                 </div>
                 <div>
@@ -474,6 +565,14 @@
                 <div>
                     <h4 class="text-white font-semibold mb-4">Contato</h4>
                     <ul class="space-y-2 text-sm">
+                        <li>
+                            <a href="https://wa.me/5581999999999" target="_blank" class="hover:text-white transition flex items-center gap-2">
+                                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                                    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/>
+                                </svg>
+                                WhatsApp: (81) 99999-9999
+                            </a>
+                        </li>
                         <li>Email: contato@bidflow.com.br</li>
                         <li>Website: www.bidflow.com.br</li>
                     </ul>
