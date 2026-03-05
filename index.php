@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BidFlow - Sistema Integrado de Gestão de Licitações e CRM</title>
+    <title>BidFlow - Sistema Integrado de Gestão de Vendas e CRM</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
@@ -57,7 +57,7 @@
                 O Fluxo Certo para a Sua Vitória
             </h1>
             <p class="text-xl md:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
-                Sistema integrado de gestão de licitações e CRM desenvolvido para impulsionar seus resultados em vendas governamentais
+                Sistema integrado de gestão de vendas e CRM para impulsionar seus resultados comerciais - licitações públicas, vendas B2B e mais
             </p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
                 <a href="login.php" class="bg-white text-blue-800 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition shadow-lg">
@@ -76,7 +76,7 @@
             <div class="text-center mb-16">
                 <h2 class="text-4xl font-bold text-gray-900 mb-4">Funcionalidades Completas</h2>
                 <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-                    Tudo que você precisa para gerenciar licitações e relacionamento com clientes em um único lugar
+                    Tudo que você precisa para gerenciar vendas, licitações e relacionamento com clientes em um único lugar
                 </p>
             </div>
             
@@ -87,9 +87,9 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
                         </svg>
                     </div>
-                    <h3 class="text-2xl font-bold text-gray-900 mb-3">Gestão de Licitações</h3>
+                    <h3 class="text-2xl font-bold text-gray-900 mb-3">Gestão de Oportunidades</h3>
                     <p class="text-gray-600">
-                        Acompanhe editais, prazos e documentação de forma organizada. Receba notificações automáticas e nunca perca uma oportunidade.
+                        Acompanhe licitações, propostas comerciais, prazos e documentação de forma organizada. Receba notificações automáticas e nunca perca uma oportunidade.
                     </p>
                 </div>
 
@@ -101,7 +101,7 @@
                     </div>
                     <h3 class="text-2xl font-bold text-gray-900 mb-3">CRM Inteligente</h3>
                     <p class="text-gray-600">
-                        Funil de vendas completo, controle de leads, propostas e histórico de interações. Gerencie todo o ciclo comercial.
+                        Funil de vendas completo, controle de leads, propostas e histórico de interações. Gerencie todo o ciclo comercial do início ao fechamento.
                     </p>
                 </div>
 
@@ -113,7 +113,7 @@
                     </div>
                     <h3 class="text-2xl font-bold text-gray-900 mb-3">Relatórios & Analytics</h3>
                     <p class="text-gray-600">
-                        Dashboards completos com métricas de desempenho, taxa de conversão e análise de oportunidades em tempo real.
+                        Dashboards completos com métricas de desempenho, taxa de conversão e análise de oportunidades em tempo real para decisões estratégicas.
                     </p>
                 </div>
 
@@ -125,7 +125,7 @@
                     </div>
                     <h3 class="text-2xl font-bold text-gray-900 mb-3">Notificações Inteligentes</h3>
                     <p class="text-gray-600">
-                        Alertas automáticos por email e sistema para prazos, novos editais e mudanças de status em oportunidades.
+                        Alertas automáticos por email e sistema para prazos, novas oportunidades e mudanças de status. Mantenha o controle total.
                     </p>
                 </div>
 
@@ -137,7 +137,7 @@
                     </div>
                     <h3 class="text-2xl font-bold text-gray-900 mb-3">Segurança Total</h3>
                     <p class="text-gray-600">
-                        Controle de acesso por perfil, auditoria de ações e proteção de dados sensíveis com criptografia.
+                        Controle de acesso por perfil, auditoria de ações e proteção de dados sensíveis com criptografia para garantir confidencialidade.
                     </p>
                 </div>
 
@@ -149,7 +149,7 @@
                     </div>
                     <h3 class="text-2xl font-bold text-gray-900 mb-3">Integração de Dados</h3>
                     <p class="text-gray-600">
-                        Sistema unificado com banco de dados integrado entre CRM e licitações. Informações centralizadas e sincronizadas.
+                        Sistema unificado com banco de dados integrado. Informações centralizadas e sincronizadas para toda a operação comercial.
                     </p>
                 </div>
             </div>
@@ -162,7 +162,7 @@
             <div class="text-center mb-16">
                 <h2 class="text-4xl font-bold text-gray-900 mb-4">Por Que Escolher o BidFlow?</h2>
                 <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-                    Desenvolvido especificamente para empresas que atuam com licitações públicas
+                    Desenvolvido para empresas que buscam excelência em gestão comercial e vendas estratégicas
                 </p>
             </div>
 
@@ -178,8 +178,8 @@
                                 </div>
                             </div>
                             <div>
-                                <h3 class="text-xl font-bold text-gray-900 mb-2">Aumente Suas Chances de Vitória</h3>
-                                <p class="text-gray-600">Organize propostas, acompanhe prazos e nunca perca oportunidades importantes</p>
+                                <h3 class="text-xl font-bold text-gray-900 mb-2">Aumente Suas Taxas de Fechamento</h3>
+                                <p class="text-gray-600">Organize propostas, acompanhe prazos e nunca perca oportunidades importantes de vendas ou licitações</p>
                             </div>
                         </div>
 
@@ -193,7 +193,7 @@
                             </div>
                             <div>
                                 <h3 class="text-xl font-bold text-gray-900 mb-2">Economize Tempo e Recursos</h3>
-                                <p class="text-gray-600">Automatize processos repetitivos e concentre sua equipe em atividades estratégicas</p>
+                                <p class="text-gray-600">Automatize processos repetitivos e concentre sua equipe em atividades estratégicas que geram resultados</p>
                             </div>
                         </div>
 
@@ -207,7 +207,7 @@
                             </div>
                             <div>
                                 <h3 class="text-xl font-bold text-gray-900 mb-2">Decisões Baseadas em Dados</h3>
-                                <p class="text-gray-600">Relatórios detalhados ajudam a identificar padrões e melhorar estratégias comerciais</p>
+                                <p class="text-gray-600">Relatórios detalhados ajudam a identificar padrões e melhorar estratégias comerciais continuamente</p>
                             </div>
                         </div>
 
@@ -221,7 +221,7 @@
                             </div>
                             <div>
                                 <h3 class="text-xl font-bold text-gray-900 mb-2">Equipe Sempre Alinhada</h3>
-                                <p class="text-gray-600">Informações centralizadas garantem que todos trabalhem com os mesmos dados atualizados</p>
+                                <p class="text-gray-600">Informações centralizadas garantem que todos trabalhem com os mesmos dados atualizados em tempo real</p>
                             </div>
                         </div>
                     </div>
@@ -232,15 +232,15 @@
                     <div class="space-y-6">
                         <div>
                             <div class="text-5xl font-bold mb-2">+40%</div>
-                            <p class="text-blue-200">Aumento na taxa de conversão de propostas</p>
+                            <p class="text-blue-200">Aumento na taxa de conversão de propostas comerciais</p>
                         </div>
                         <div>
                             <div class="text-5xl font-bold mb-2">-60%</div>
-                            <p class="text-blue-200">Redução no tempo de gestão de processos</p>
+                            <p class="text-blue-200">Redução no tempo de gestão de processos de vendas</p>
                         </div>
                         <div>
                             <div class="text-5xl font-bold mb-2">100%</div>
-                            <p class="text-blue-200">Controle sobre prazos e oportunidades</p>
+                            <p class="text-blue-200">Controle sobre prazos e oportunidades comerciais</p>
                         </div>
                     </div>
                 </div>
@@ -274,7 +274,7 @@
                         <div>
                             <h3 class="text-2xl font-bold text-gray-900 mb-3">Fluxos Personalizados</h3>
                             <p class="text-gray-600">
-                                Adapte os processos de trabalho, etapas do funil de vendas, status de licitações e workflows conforme a metodologia da sua empresa.
+                                Adapte os processos de trabalho, etapas do funil de vendas, status de oportunidades e workflows conforme a metodologia da sua empresa.
                             </p>
                         </div>
                     </div>
@@ -347,7 +347,7 @@
             <div class="text-center mb-16">
                 <h2 class="text-4xl font-bold text-gray-900 mb-4">Dois Módulos Poderosos</h2>
                 <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-                    Integrados mas independentes, para atender todas as suas necessidades
+                    Integrados mas independentes, para atender todas as suas necessidades comerciais
                 </p>
             </div>
 
@@ -358,34 +358,34 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
                         </svg>
                     </div>
-                    <h3 class="text-3xl font-bold text-gray-900 mb-4">Gestão de Licitação</h3>
+                    <h3 class="text-3xl font-bold text-gray-900 mb-4">Gestão de Licitações e Vendas</h3>
                     <p class="text-gray-700 mb-6">
-                        Módulo completo para acompanhamento de editais, gestão de documentos, controle de prazos e histórico de participações.
+                        Módulo completo para acompanhamento de licitações públicas, editais, propostas comerciais, gestão de documentos, controle de prazos e histórico de participações.
                     </p>
                     <ul class="space-y-3">
                         <li class="flex items-start gap-3">
                             <svg class="w-6 h-6 text-blue-800 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
-                            <span class="text-gray-700">Cadastro e busca de editais por categoria</span>
+                            <span class="text-gray-700">Cadastro de editais, licitações e oportunidades comerciais</span>
                         </li>
                         <li class="flex items-start gap-3">
                             <svg class="w-6 h-6 text-blue-800 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
-                            <span class="text-gray-700">Alertas automáticos de prazos críticos</span>
+                            <span class="text-gray-700">Alertas automáticos de prazos críticos e vencimentos</span>
                         </li>
                         <li class="flex items-start gap-3">
                             <svg class="w-6 h-6 text-blue-800 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
-                            <span class="text-gray-700">Gestão de documentação e anexos</span>
+                            <span class="text-gray-700">Gestão de documentação, anexos e propostas técnicas</span>
                         </li>
                         <li class="flex items-start gap-3">
                             <svg class="w-6 h-6 text-blue-800 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
-                            <span class="text-gray-700">Relatórios de desempenho e taxa de sucesso</span>
+                            <span class="text-gray-700">Relatórios de desempenho e taxa de sucesso em vendas</span>
                         </li>
                     </ul>
                 </div>
@@ -398,32 +398,32 @@
                     </div>
                     <h3 class="text-3xl font-bold text-gray-900 mb-4">CRM - Funil de Vendas</h3>
                     <p class="text-gray-700 mb-6">
-                        Sistema completo de relacionamento com clientes, desde a prospecção até o pós-venda, com funil de vendas visual.
+                        Sistema completo de relacionamento com clientes, desde a prospecção até o pós-venda, com funil de vendas visual e gestão completa do ciclo comercial.
                     </p>
                     <ul class="space-y-3">
                         <li class="flex items-start gap-3">
                             <svg class="w-6 h-6 text-green-700 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
-                            <span class="text-gray-700">Gestão completa de leads e oportunidades</span>
+                            <span class="text-gray-700">Gestão completa de leads, prospects e oportunidades</span>
                         </li>
                         <li class="flex items-start gap-3">
                             <svg class="w-6 h-6 text-green-700 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
-                            <span class="text-gray-700">Funil visual com etapas personalizáveis</span>
+                            <span class="text-gray-700">Funil visual com etapas personalizáveis por segmento</span>
                         </li>
                         <li class="flex items-start gap-3">
                             <svg class="w-6 h-6 text-green-700 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
-                            <span class="text-gray-700">Histórico completo de interações</span>
+                            <span class="text-gray-700">Histórico completo de interações e follow-ups</span>
                         </li>
                         <li class="flex items-start gap-3">
                             <svg class="w-6 h-6 text-green-700 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
-                            <span class="text-gray-700">Indicadores e métricas de performance</span>
+                            <span class="text-gray-700">Indicadores e métricas de performance comercial</span>
                         </li>
                     </ul>
                 </div>
@@ -435,10 +435,10 @@
     <section id="contact" class="hero-gradient py-20 px-6">
         <div class="container mx-auto text-center">
             <h2 class="text-4xl md:text-5xl font-bold text-white mb-6">
-                Pronto para Transformar Sua Gestão?
+                Pronto para Transformar Sua Gestão Comercial?
             </h2>
             <p class="text-xl text-white opacity-90 mb-8 max-w-2xl mx-auto">
-                Entre em contato e descubra como o BidFlow pode impulsionar seus resultados em licitações públicas
+                Entre em contato e descubra como o BidFlow pode impulsionar seus resultados em vendas, licitações e relacionamento com clientes
             </p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
                 <a href="login.php" class="bg-white text-blue-800 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition shadow-lg">
@@ -458,7 +458,7 @@
                 <div>
                     <img src="crm/imagens/logo-1080-fb.png" alt="Logo BidFlow" class="h-12 mb-4">
                     <p class="text-sm">
-                        Sistema integrado de gestão de licitações e CRM desenvolvido para empresas que buscam excelência em vendas governamentais.
+                        Sistema integrado de gestão de vendas e CRM desenvolvido para empresas que buscam excelência em vendas estratégicas, licitações e relacionamento comercial.
                     </p>
                 </div>
                 <div>
