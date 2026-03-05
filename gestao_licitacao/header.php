@@ -43,7 +43,7 @@ if (isset($_SESSION['user_id'])) {
 ?>
 
 <header class="flex flex-wrap justify-between items-center mb-6">
-    <img src="imagens/LOGO-FR.webp" alt="logo FR" width="140" height="75">
+    <img src="imagens/logo-1080-fb.png" alt="logo Bidflow" width="240" height="75">
     <h1 class="text-3xl font-bold text-gray-800">
         <?php echo isset($page_title) ? htmlspecialchars($page_title) : 'Painel de Gestão'; ?>
     </h1>

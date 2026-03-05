@@ -9,7 +9,7 @@ if (session_status() === PHP_SESSION_NONE) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FR Produtos Médicos - Acesso Unificado</title>
+    <title>BidFlow - Acesso Unificado</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
@@ -30,12 +30,12 @@ if (session_status() === PHP_SESSION_NONE) {
             <div class="flex flex-col justify-end h-full p-12 bg-black bg-opacity-40">
                 <div class="text-white">
                      <div class="flex items-center mb-4">
-                        <h1 class="text-2xl font-bold">FR Produtos Médicos</h1>
+                        <h1 class="text-2xl font-bold">BidFlow CRM</h1>
                     </div>
-                    <h6 class="text-4xl font-bold leading-tight mb-4">Contribuindo com a medicina para salvar vidas.</h6>
+                    <h6 class="text-4xl font-bold leading-tight mb-4">O fluxo certo para a sua vitória.</h6>
                    
                     <div style="text-align:right; font-size: 0.6rem;">
-                        Powered By <a href="https://www.seusite.com" style="text-decoration: none; color: inherit;">BidFlow</a>
+                        Powered By <a href="https://www.bidflow.com.br" style="text-decoration: none; color: inherit;">BidFlow</a>
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@ if (session_status() === PHP_SESSION_NONE) {
         <div class="w-full lg:w-1/2 flex items-center justify-center p-8 bg-gray-50">
             <div class="w-full max-w-sm form-container">
                 <div class="text-center mb-10">
-                    <img src="crm/imagens/LOGO-FR.webp" alt="Logo FR" width="140" height="75" class="mx-auto mb-4">
+                    <img src="crm/imagens/logo-1080-fb.png" alt="Logo BidFlow" width="240" height="75" class="mx-auto mb-4">
                     <h2 class="text-3xl font-bold text-gray-800">Acesso ao Sistema</h2>
                 </div>
 
