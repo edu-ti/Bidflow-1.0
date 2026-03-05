@@ -39,6 +39,7 @@
                 <div class="hidden md:flex space-x-8">
                     <a href="#features" class="text-gray-700 hover:text-blue-800 font-medium">Funcionalidades</a>
                     <a href="#benefits" class="text-gray-700 hover:text-blue-800 font-medium">Benefícios</a>
+                    <a href="#customization" class="text-gray-700 hover:text-blue-800 font-medium">Personalização</a>
                     <a href="#modules" class="text-gray-700 hover:text-blue-800 font-medium">Módulos</a>
                     <a href="#contact" class="text-gray-700 hover:text-blue-800 font-medium">Contato</a>
                 </div>
@@ -247,6 +248,99 @@
         </div>
     </section>
 
+    <!-- Customization Section -->
+    <section id="customization" class="py-20 px-6 bg-gradient-to-br from-purple-50 to-blue-50">
+        <div class="container mx-auto">
+            <div class="text-center mb-16">
+                <div class="inline-block bg-purple-100 text-purple-800 px-4 py-2 rounded-full text-sm font-semibold mb-4">
+                    SOLUÇÃO PERSONALIZADA
+                </div>
+                <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+                    Sistema Sob Medida para Seu Negócio
+                </h2>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+                    O BidFlow pode e é totalmente personalizado de acordo com as necessidades específicas do seu cliente e segmento de atuação
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-8 mb-12">
+                <div class="bg-white p-8 rounded-2xl shadow-lg">
+                    <div class="flex items-start gap-4 mb-4">
+                        <div class="bg-purple-100 p-3 rounded-lg">
+                            <svg class="w-8 h-8 text-purple-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path>
+                            </svg>
+                        </div>
+                        <div>
+                            <h3 class="text-2xl font-bold text-gray-900 mb-3">Fluxos Personalizados</h3>
+                            <p class="text-gray-600">
+                                Adapte os processos de trabalho, etapas do funil de vendas, status de licitações e workflows conforme a metodologia da sua empresa.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white p-8 rounded-2xl shadow-lg">
+                    <div class="flex items-start gap-4 mb-4">
+                        <div class="bg-blue-100 p-3 rounded-lg">
+                            <svg class="w-8 h-8 text-blue-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21a4 4 0 01-4-4V5a2 2 0 012-2h4a2 2 0 012 2v12a4 4 0 01-4 4zm0 0h12a2 2 0 002-2v-4a2 2 0 00-2-2h-2.343M11 7.343l1.657-1.657a2 2 0 012.828 0l2.829 2.829a2 2 0 010 2.828l-8.486 8.485M7 17h.01"></path>
+                            </svg>
+                        </div>
+                        <div>
+                            <h3 class="text-2xl font-bold text-gray-900 mb-3">Interface Adaptável</h3>
+                            <p class="text-gray-600">
+                                Personalize cores, logotipo, nome do sistema e elementos visuais para refletir a identidade da sua marca e criar uma experiência única.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white p-8 rounded-2xl shadow-lg">
+                    <div class="flex items-start gap-4 mb-4">
+                        <div class="bg-green-100 p-3 rounded-lg">
+                            <svg class="w-8 h-8 text-green-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                            </svg>
+                        </div>
+                        <div>
+                            <h3 class="text-2xl font-bold text-gray-900 mb-3">Campos Customizados</h3>
+                            <p class="text-gray-600">
+                                Adicione campos específicos para capturar informações relevantes ao seu segmento, desde dados técnicos até métricas personalizadas de negócio.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white p-8 rounded-2xl shadow-lg">
+                    <div class="flex items-start gap-4 mb-4">
+                        <div class="bg-orange-100 p-3 rounded-lg">
+                            <svg class="w-8 h-8 text-orange-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4"></path>
+                            </svg>
+                        </div>
+                        <div>
+                            <h3 class="text-2xl font-bold text-gray-900 mb-3">Integrações Sob Demanda</h3>
+                            <p class="text-gray-600">
+                                Conecte o BidFlow aos sistemas que você já utiliza: ERP, e-mail marketing, ferramentas de comunicação, plataformas governamentais e mais.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-gradient-to-r from-purple-600 to-blue-600 p-10 rounded-2xl text-white text-center">
+                <h3 class="text-3xl font-bold mb-4">Sua Necessidade, Nossa Solução</h3>
+                <p class="text-lg mb-6 opacity-90 max-w-2xl mx-auto">
+                    Cada empresa tem desafios únicos. O BidFlow é desenvolvido para se moldar perfeitamente ao seu processo de trabalho, não o contrário. Entre em contato e conte-nos sobre suas necessidades específicas.
+                </p>
+                <a href="mailto:contato@bidflow.com.br" class="inline-block bg-white text-purple-700 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition shadow-lg">
+                    Solicitar Personalização
+                </a>
+            </div>
+        </div>
+    </section>
+
     <!-- Modules Section -->
     <section id="modules" class="py-20 px-6">
         <div class="container mx-auto">
@@ -372,6 +466,7 @@
                     <ul class="space-y-2 text-sm">
                         <li><a href="#features" class="hover:text-white transition">Funcionalidades</a></li>
                         <li><a href="#benefits" class="hover:text-white transition">Benefícios</a></li>
+                        <li><a href="#customization" class="hover:text-white transition">Personalização</a></li>
                         <li><a href="#modules" class="hover:text-white transition">Módulos</a></li>
                         <li><a href="login.php" class="hover:text-white transition">Acessar Sistema</a></li>
                     </ul>
